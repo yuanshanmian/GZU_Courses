@@ -1,3 +1,3 @@
-1.Upload ```music.PNG``` on [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) ```/content``` folder
+1.Upload ```music.PNG``` on [Colab](https://colab.research.google.com/) ```/content``` folder
 
 2.Run
