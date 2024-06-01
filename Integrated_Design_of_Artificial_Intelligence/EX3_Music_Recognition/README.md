@@ -5,3 +5,5 @@
 1. Upload ```music.PNG```（注意大写） to [Colab](https://colab.research.google.com/) ```/content``` folder
 
 2. Run
+
+3. Generate result file ```annotations.txt```
